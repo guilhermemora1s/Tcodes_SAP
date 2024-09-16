@@ -169,3 +169,13 @@ SA38 - É uma transação do usuário para executar um relatório, geralmente é
 PFCG - Transação para criar uma função (permissão)  
 
 SUIM - Transação para verificar usuário  
+us6 - verificar buffer de autorizações 
+SU24 - Transação de autorização
+
+se16 - Transação para verificar tabelas
+usr02 - comando para inserir na se16 para analisarmos os usuários no sap
+su01d - transação para visualizar informações dos usuarios
+sugr - transação para criar grupos
+su10 - transação para realizar manutenção ou criação de usuários em massa
+su24
+usmm - transação para monitorar o sistema
