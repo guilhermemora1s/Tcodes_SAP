@@ -1,0 +1,171 @@
+se16n - transação de banco de dados  
+
+se10 - transação gerenciar as request  
+
+rbkp - tabela de miro a nível de cabeçalho  
+
+rseg - tabela miro a nível e item  
+
+mara - tabela de material  
+
+e070 - lista de request  
+
+mm01 - criar material  
+
+mm02 - modificar material  
+
+mm03 - exibir material  
+
+su53 - logs de acesso  
+
+t030  
+
+sm30 - Visualização de tabela  
+
+zwft001  
+
+exibir  
+
+fb01 - cria um documento financeiro  
+
+fb02 - edita um documento financeiro  
+
+fb03 - exibe um documento financeiro  
+
+/o - atalho para criar uma nova janela  
+
+/n - fecha o que está aberto e abre uma nova janela com a nova transação  
+
+/nex - fecha todas as seções do sap  
+
+SE01 - visualizar request  
+
+SE09  
+
+SE10  
+
+SCC - Transação para copiar request entre mandantes  
+
+TRANPS  
+
+Transação para configuração de trusted relationship  
+
+SMT1  
+
+SMT2  
+
+/n - faz a limpeza no sistema  
+
+/o - Abre uma nova janela  
+
+SPROXY - verificação de proxy  
+
+SXI_MONITOR - TRANSACAO PARA VERIFICAR O QUE ESTA TRAFEGANDO PARA O PI (PROXXY)  
+
+xd03 - transação para exibir cliente (OBS.: Transação não existe mais no S4/HANA, foi modificado para transação bp)  
+
+se38 - transação para saber todas as transações do sap.  
+
+BAPI - MONITORAMENTO  
+
+st06 - Transação para verificar informações SO  
+
+0s07 - Transação antiga  
+
+os07n - Transação antiga  
+
+Saber o que foi usado  
+
+SM12 e SM13 - Começa o update  
+
+SM14 - Quem está ativo ?  
+
+se14 - transação para ver a estrutura de uma tabela do banco de dados.  
+
+dbacockpit - ambiente do banco de dados\  
+
+db02 - transação para ambiente de banco de dados (Armazenamento)  
+
+snote - saber as notas de release e melhoria no sap  
+
+sapcar - programa para descompactar extensão SAR  
+
+sapcar  
+
+stad - verificar performace  
+
+Check Point - ponto de backup  
+
+para instalar o sap precisa do gateway e do dispatcher  
+
+smlt - transacao de indioma / i18n - internacionalizacao  
+
+sick - consistencia  
+
+se06 - post instal tms  
+
+bd54 - transação sistema logico  
+
+scc4 - transacao para criar mandante  
+
+sccl - cópia de mandante  
+
+obs. no primeiro acesso usar o usuario: SAP senha pass*  
+
+scc3 - análise de cópia de mandante  
+
+RZ10 - transacao de configurar o ambiente  
+
+oss1 - configuração sap router (sempre que configurar é necessário atribuir ao número da instancia o n 99)  
+
+RZ11 - CONSULTA PARAMETRO  
+
+REPORT (SA38) RSPARAM  
+
+SICF - ATIVAR OS SERVIÇOS  
+
+SCOT - ATIVACAO DE E-MAIL  
+
+SOST -  
+
+SE61- TELA INICAL  
+
+SMW0 - MUDAR IMAGEM INICIAL  
+
+SM36 - HOUSE KEEPING (LIMPEZA DE JOBS etc) USUARIO DDIC  
+
+SE38 - CONFIGURAR JOB  
+
+SGEN - COMPILA TODO AMBIENTE DEPOIS DE CONFIGURADO  
+
+SLICENSE - INSTALACAO DE LICENCA  
+
+PFCG - CONFIGURACAO DE PERFIL  
+
+STAUTHTRACE- DEFINIR USUARIO E RASTREIA O USER  
+
+RSUSR200 - Verifica os usuários ativos no sistema  
+
+JOBS STMS - RDDNWWPP E RDDIMPDP (USUARIO DDIC)  
+
+sm51 - Verificação do servidor  
+
+sm50 - Verificar workprocess  
+
+sp01 - verificar spool das impressoras  
+
+db02 - analisar a saúde do banco de dados  
+
+RSUSR200 - Transação de relatório de usuários no sistema  
+
+SE84 - EXIBIR AS TABELAS QUE FORAM CRIADOS  
+
+CLICA EM DICIONARIO ABAP > TABELA DE BANCO DE DADOS E  
+
+ADICONA O NOME DA TABELA  
+
+SA38 - É uma transação do usuário para executar um relatório, geralmente é usado para o relatório sem uma transacion.  
+
+PFCG - Transação para criar uma função (permissão)  
+
+SUIM - Transação para verificar usuário  
